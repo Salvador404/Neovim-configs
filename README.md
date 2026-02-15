@@ -18,7 +18,7 @@
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/d37c13d2-88bf-430c-a270-a7ad60600621)
 
-📋Dedicated switch for execution: \\+c
+📋Dedicated switch for execution: \\+r
 
 ![Screenshot (150)](https://github.com/user-attachments/assets/28a93a37-9949-492c-9054-4b65f56a4155)
 
